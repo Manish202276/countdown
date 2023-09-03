@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://img.freepik.com/premium-photo/abstract-rainbow-colorful-bright-feather-closeup-up-macro-view-background-plumage-texture-with-dew-drops_753134-644.jpg);
+    background-repeat: no-repeat;
+    background-size:2000px 1000px
+}
+.head1{
+    text-align: center;
+    color:aqua;
+}
+.head2{
+    text-align: center;
+    color:aqua;
+}
+.head3{
+    text-align: center;
+    color:aqua;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    border-radius: 20px;
+    height:30px;
+    width:80px;
+    text-align: center;
+    color:#5014f5;
+    margin-top: 100px;
+    font-size: 20px;
+    margin-right: 20px;
+}
